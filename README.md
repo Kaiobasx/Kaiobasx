@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
 </div>
 <div align="center">
-  <img height="150" src="https://www.santander.com.br/portal/pam/img/55_910_FA_SANTANDER_PV_POS_RGB.png"  />
+  <img height="120" src="https://raw.githubusercontent.com/Kaiobasx/Kaiobasx/main/assets/santander.png" />
 </div>
 
 ###
