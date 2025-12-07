@@ -41,6 +41,8 @@
 </div>
 <br>
 
+<img src="https://raw.githubusercontent.com/Kaiobasx/Kaiobasx/output/snake.svg" alt="Snake animation" />
+<br>
 <div align="center">
   <img height="120" src="https://raw.githubusercontent.com/Kaiobasx/Kaiobasx/main/assets/santander.png" />
 </div>
