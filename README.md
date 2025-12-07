@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou o Kaioba! ♨️<br><br>Estudante de Análise e Desenvolvimento de Sistemas • Estagiário no Santander • Desenvolvedor Front-end, Back-end e Low-Code<br><br>Atuo no desenvolvimento de aplicações em Low Code utilizando a Power Platform e na automação de processos com Power Automate. Tenho interesse em projetos web, automação, tecnologia e soluções que facilitem o dia a dia das pessoas.</h2>
+<h2 align="left">Olá, eu sou o Kaioba! ♨️<br><br>Estudante de Análise e Desenvolvimento de Sistemas • Estagiário no Santander • Desenvolvedor Front-end, Back-end e Low-Code</h2>
 
 ###
 
